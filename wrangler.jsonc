@@ -1,17 +1,10 @@
 {
 "name": "astro-swoop-delete-me"
 ,
-"compatibility_
-date": "2026-10-01"
+"compatibility_date": "2026-10-01"
 ,
-"assets": {
-"directory": "
-"not
-found
-./dist"
-,
-_
-_
-handling": "404-page"
+"assets" : {
+    "directory": "./dist",
+    "not_found_handling": 404-page
 }
 }
